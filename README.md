@@ -1,16 +1,16 @@
-# 📸 Verificação de Registro Fotográfico
+# Verificação de Registro Fotográfico
 
 Aplicação Desktop em Python desenvolvida para realizar a auditoria, contagem e verificação da organização de imagens das vistorias de campo salvas em servidor de rede.
 
 ---
 
-## 📌 Visão Geral
+## Visão Geral
 
 Diferente da auditoria de documentos (PDFs), esta ferramenta foca na validação da documentação visual das vistorias. Ela varre as estruturas de pastas dos corpos hídricos em busca de registros fotográficos, organizando os dados por datas de captura e gerando relatórios de cobertura fotográfica.
 
 ---
 
-## 🚀 Funcionalidades Principais
+## Funcionalidades Principais
 
 - **Mapeamento de Mídias:** Suporte automático para múltiplos formatos de imagem (`.jpg`, `.jpeg`, `.png`, `.heic`, `.webp`).
 - **Agrupamento Temporal:** Identificação e contagem de fotos organizadas por pastas de datas (ex: `2026.08.19`).
@@ -21,7 +21,7 @@ Diferente da auditoria de documentos (PDFs), esta ferramenta foca na validação
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **[Python 3.x](https://www.python.org/)**
 - **[Tkinter](https://docs.python.org/3/library/tkinter.html):** Interface gráfica e visualização em tabela.
@@ -30,7 +30,7 @@ Diferente da auditoria de documentos (PDFs), esta ferramenta foca na validação
 
 ---
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 - Ter o Python 3.8+ instalado.
 - Acesso à unidade de rede configurada (Mapeamento padrão: M:\001 - Vistorias de Campo).
@@ -38,7 +38,7 @@ Diferente da auditoria de documentos (PDFs), esta ferramenta foca na validação
 ---
 
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 verificacao-fotos-vistoria/
