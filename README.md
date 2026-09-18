@@ -23,7 +23,7 @@ Diferente da auditoria de documentos (PDFs), esta ferramenta foca na validação
 
 ## Tecnologias Utilizadas
 
-- **[Python 3.x](https://www.python.org/)**
+- **[Python 3.x](https://www.python.org/)** Linguagem base da aplicação.
 - **[Tkinter](https://docs.python.org/3/library/tkinter.html):** Interface gráfica e visualização em tabela.
 - **[Pandas](https://pandas.pydata.org/):** Consolidação dos registros e contagens.
 - **[OpenPyXL](https://openpyxl.readthedocs.io/):** Manipulação e exportação para `.xlsx`.
